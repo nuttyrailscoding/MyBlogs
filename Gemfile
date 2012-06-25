@@ -12,8 +12,8 @@ gem 'bootstrap-sass', '2.0.3'
 
 group :development do
 	gem 'sqlite3'
-	gem 'quiet_assets'
-	gem 'thin'
+	#gem 'quiet_assets'
+	#gem 'thin'
 end
 # Gems used only for assets and not required
 # in production environments by default.
